@@ -1,3 +1,4 @@
 ## README
 
-Ceci est notre premier projet
+Ceci est notre joli premier projet
+et on va continuer
